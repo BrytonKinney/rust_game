@@ -8,3 +8,8 @@ edition = "2018"
 
 [dependencies]
 ggez = "0.5"
+gfx_core = "0.9"
+gfx_device_gl = "0.16"
+image = "0.22"
+imgui = "0.2"
+imgui-gfx-renderer = "0.2"
